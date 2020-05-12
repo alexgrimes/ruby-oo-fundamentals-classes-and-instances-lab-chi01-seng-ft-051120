@@ -1,3 +1,3 @@
 class Dog 
-  fido 
+  dog_names = {fido, snoopy, lassie}
 end 
