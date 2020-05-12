@@ -1,4 +1,5 @@
 class Person
-  # adele_goldberg = a 
-  # alan_kay = b 
 end 
+
+adele_goldberg = Person.new 
+alan_kay = Person.new 
